@@ -1,0 +1,17 @@
+/* Styles go here */
+.container{
+
+    display: flex;
+    justify-content: center;
+  
+  
+}
+
+.mainclass{
+   
+    margin:1em;
+}
+
+.balanceText{
+    color: rgb(26, 18, 54);
+}
